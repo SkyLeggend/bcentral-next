@@ -257,7 +257,7 @@ export default function MobileMenu() {
                 Sitio trabajado con amor <i className="ph-fill ph-heart t-additional" /> por{" "}
                 <a
                   className="no-effect"
-                  href="https://themeforest.net/user/ib-themes/portfolio"
+                  href="#"
                   target="_blank"
                 >
                   Bcentral
